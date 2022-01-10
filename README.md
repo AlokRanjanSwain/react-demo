@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The following is the UI
 
-![Alt text] (https://github.com/AlokRanjanSwain/react-demo/blob/master/react_snip.PNG)
+<img width="219" alt="react_snip" src="https://github.com/AlokRanjanSwain/react-demo/blob/master/react_snip.PNG">
 
 
 
